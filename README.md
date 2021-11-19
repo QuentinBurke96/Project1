@@ -19,6 +19,7 @@ i.e, localStorage.setItem("key", "value");
 * Touch script.js, style.css and index.html into the repository  
 
 # GitHub Link 
+
 https://github.com/QuentinBurke96/Project1 
 
 ![]()Screen Shot 2021-11-19 at 4.55.53 PM.png

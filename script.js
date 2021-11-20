@@ -13,11 +13,11 @@ function divMaker(text){
 
     div.className = 'flashcard'
 
-    h2_question.setAttribute('style', 'border-top:1px solid red; padding: 15px; margin-top:30px;color:red')
+    h2_question.setAttribute('style', '; padding: 15px; margin-top:30px;color:white')
 
     h2_question.innerHTML = text.my_question
 
-    h2_answer.setAttribute('style', 'text-align:center; display:none;color:red')
+    h2_answer.setAttribute('style', 'text-align:center; display:none;color:white')
 
     h2_answer.innerHTML = text.my_answer
 

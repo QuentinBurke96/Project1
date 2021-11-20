@@ -7,10 +7,10 @@
 body{
     color: white;
     background-color: black;
-    background-image: url(http://i4.ytimg.com/vi/s1AtwwyxMKc/maxresdefault.jpg);
-    background-repeat: no-repeat;
-    background-position: -150px 0;
+    background-image: url(https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2020/4/8/hthjdf72mtthkltjvuoj/final-fantasy-7-tips); 
     font-size: 1rem;
+    
+    
 }
 
 .createBox{
@@ -41,12 +41,33 @@ body{
 }
 
 .flashcard {
-    width: 370px;
+     width: 370px;
     height: 200px;
     word-wrap: break-word;
     margin: 10px;
-    background-color: white;
-    box-shadow: 0 2px 4px 0 rgba(rgb(12, 12, 12));
+    /* background-color: white; */
+    box-shadow: 0 2px 4px 0 rgba(rgb(12, 12, 12)); 
+    border: solid 1px #424542;
+    box-shadow: 1px 1px #e7dfe7,
+                -1px -1px #e7dfe7,
+                1px -1px #e7dfe7,
+                -1px 1px #e7dfe7,
+                0 -2px #9c9a9c,
+                -2px 0 #7b757b,
+                0 2px #424542;
+    width: 360px;
+    padding: 5px 10px;
+    text-align: center;
+    margin: auto; 
+    
+    background: #04009d;
+    background: -moz-linear-gradient(top,  #04009d 0%, #06004d 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#04009d), color-stop(100%,#06004d));
+    background: -webkit-linear-gradient(top,  #04009d 0%,#06004d 100%);
+    background: -o-linear-gradient(top,  #04009d 0%,#06004d 100%);
+    background: -ms-linear-gradient(top,  #04009d 0%,#06004d 100%);
+    background: linear-gradient(to bottom,  #04009d 0%,#06004d 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#04009d', endColorstr='#06004d',GradientType=0 );
 }
 
 .flashcard h2 {

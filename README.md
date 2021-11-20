@@ -22,6 +22,7 @@ i.e, localStorage.setItem("key", "value");
 
 https://github.com/QuentinBurke96/Project1 
 
-![]()Screen Shot 2021-11-19 at 4.55.53 PM.png
-![]()Screen Shot 2021-11-19 at 4.57.29 PM.png
-![]()Screen Shot 2021-11-19 at 4.57.58 PM.png
+
+<img width="1676" alt="Screen Shot 2021-11-19 at 4 55 53 PM" src="https://user-images.githubusercontent.com/94023156/142706755-762bab33-40be-489a-9a13-eac56e62a1d1.png">
+<img width="1673" alt="Screen Shot 2021-11-19 at 4 57 29 PM" src="https://user-images.githubusercontent.com/94023156/142706766-cac705e8-f049-40b4-b0c2-a14ffddcb5cd.png">
+<img width="1674" alt="Screen Shot 2021-11-19 at 4 57 58 PM" src="https://user-images.githubusercontent.com/94023156/142706772-c47a8806-3cf5-447c-9d01-496a93c08350.png">

@@ -20,7 +20,7 @@ add.addEventListener('click', function(){
 })
 
 reset1.addEventListener('click', function(){
-    integer = 0
+    integer -= 1
     int.innerHTML = integer
 })
 

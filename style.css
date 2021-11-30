@@ -38,9 +38,11 @@ body{
     margin: auto;
     margin-top: 10px;
     padding: 0 10px;
+    
 }
 
-.flashcard {
+.flashcard,#score {
+    
      width: 370px;
     height: 200px;
     word-wrap: break-word;
@@ -164,10 +166,12 @@ button:hover{
       font-size: 2em;
   }
 
-  #score { 
+  /* #score { 
       text-align: center;
-  }
+  }  */
 
-  #number {
+ #number {
       font-size: 2em;
-  }
+  } 
+
+  
